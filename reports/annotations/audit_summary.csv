@@ -1,0 +1,4 @@
+class,audit_frames,visual_count,auto_count,count_mae
+person,20,33,23,0.5
+helmet,20,7,7,0.0
+vest,20,21,8,0.65

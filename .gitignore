@@ -1,3 +1,7 @@
 __pycache__/
 .venv/
 .ruff_cache/
+video/
+Microsoft/
+models/
+reports/annotations/previews/

@@ -1,0 +1,21 @@
+video,frame,time_s,person,helmet,vest,reviewer,notes
+Camera_0000.mp4,0,0.0,3,1,1,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,199,6.6333,3,1,1,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,399,13.3,2,1,1,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,599,19.9667,2,1,1,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,799,26.6333,2,1,1,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,999,33.3,1,1,1,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,1199,39.9667,1,0,1,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,1399,46.6333,0,0,0,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,1599,53.3,0,0,0,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+Camera_0000.mp4,1799,59.9667,0,0,0,codex_visual_review,At frame 1199 head is occluded; PPE counts include only clearly visible items
+input.mp4,0,0.0,1,0,1,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,47,1.88,2,0,2,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,95,3.8,1,0,1,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,142,5.68,1,0,1,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,190,7.6,1,0,1,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,237,9.48,3,0,2,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,285,11.4,3,0,2,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,332,13.28,3,0,2,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,380,15.2,2,1,1,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers
+input.mp4,428,17.12,2,0,1,codex_visual_review,Tiny elevated figure at far left excluded as uncertain; count clear floor-level workers

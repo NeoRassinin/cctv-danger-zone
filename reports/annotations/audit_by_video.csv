@@ -1,0 +1,7 @@
+video,class,audit_frames,visual_count,auto_count,count_mae
+Camera_0000.mp4,person,10,14,14,0.0
+Camera_0000.mp4,helmet,10,6,6,0.0
+Camera_0000.mp4,vest,10,7,2,0.5
+input.mp4,person,10,19,9,1.0
+input.mp4,helmet,10,1,1,0.0
+input.mp4,vest,10,14,6,0.8

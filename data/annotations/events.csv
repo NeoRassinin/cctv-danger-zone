@@ -1,0 +1,5 @@
+video,track_id,type,start_s,end_s,trigger_s,source,verified
+Camera_0000.mp4,1,zone,0.0,8.1,5.033,derived_auto_demo,False
+Camera_0000.mp4,4,zone,9.733,24.2,14.767,derived_auto_demo,False
+Camera_0000.mp4,2,zone,0.0,28.0,5.033,derived_auto_demo,False
+Camera_0000.mp4,4,zone,28.067,35.067,33.1,derived_auto_demo,False

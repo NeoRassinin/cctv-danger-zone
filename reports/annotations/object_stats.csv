@@ -1,0 +1,11 @@
+video,class,boxes,mean_confidence,median_height_px,height_below_32_pct,unassociated_ppe_boxes
+Camera_0000.mp4,person,2275,0.715,228.13,0.0,
+Camera_0000.mp4,helmet,942,0.506,58.98,0.0,3
+Camera_0000.mp4,no_helmet,79,0.295,44.66,0.0,0
+Camera_0000.mp4,vest,205,0.374,118.53,0.0,0
+Camera_0000.mp4,no_vest,331,0.321,116.02,0.0,0
+input.mp4,person,308,0.595,109.09,0.0,
+input.mp4,helmet,20,0.311,14.99,100.0,1
+input.mp4,no_helmet,3,0.325,19.92,100.0,0
+input.mp4,vest,229,0.549,45.74,7.86,9
+input.mp4,no_vest,1,0.313,19.05,100.0,1

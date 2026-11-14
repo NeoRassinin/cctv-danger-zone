@@ -1,0 +1,61 @@
+{
+  "kind": "automatic_prelabels",
+  "verified_ground_truth": false,
+  "classes": {
+    "0": "person",
+    "1": "helmet",
+    "2": "no_helmet",
+    "3": "vest",
+    "4": "no_vest"
+  },
+  "model_repo": "constructelligence/construction-site-safety-hazards",
+  "revision": "79673cff5a8bb249fc8ec9cca3daa19e2ef95191",
+  "weight_sha256": "ab31a6b2ddcd21a081d6393a11e8062a058c218c333be11481fc0678a9c67e2e",
+  "imgsz": 1280,
+  "confidence": 0.25,
+  "device": "0",
+  "tracker": "ByteTrack",
+  "event_rule": "continuous evidence for more than 5 seconds; missing/unknown resets",
+  "bbox": "xyxy in original pixels",
+  "frame_index": "zero_based",
+  "videos": [
+    {
+      "video": "Camera_0000.mp4",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30.0,
+      "frames": 1800,
+      "track_ids": 6,
+      "person": 2275,
+      "helmet": 942,
+      "no_vest": 331,
+      "no_helmet": 79,
+      "vest": 205,
+      "helmet_present": 939,
+      "vest_unknown": 1739,
+      "helmet_unknown": 1257,
+      "vest_absent": 331,
+      "helmet_absent": 79,
+      "vest_present": 205
+    },
+    {
+      "video": "input.mp4",
+      "width": 898,
+      "height": 506,
+      "fps": 25.0,
+      "frames": 429,
+      "track_ids": 22,
+      "person": 308,
+      "helmet": 20,
+      "no_vest": 1,
+      "no_helmet": 3,
+      "vest": 229,
+      "helmet_present": 17,
+      "vest_unknown": 88,
+      "helmet_unknown": 288,
+      "vest_absent": 0,
+      "helmet_absent": 3,
+      "vest_present": 220
+    }
+  ]
+}
